@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="org.eclipse.jdt.launching.localJavaApplication">
+    <listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
+        <listEntry value="/bridgelabz_practise_programs/src/com/bridgelabz/practiseprograms/palindrom.java"/>
+    </listAttribute>
+    <listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
+        <listEntry value="1"/>
+    </listAttribute>
+    <booleanAttribute key="org.eclipse.jdt.launching.ATTR_EXCLUDE_TEST_CODE" value="true"/>
+    <stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="com.bridgelabz.practiseprograms.palindrom"/>
+    <stringAttribute key="org.eclipse.jdt.launching.MODULE_NAME" value="bridgelabz_practise_programs"/>
+    <stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="bridgelabz_practise_programs"/>
+</launchConfiguration>
